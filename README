@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1433
+
+Runtime files for Haml and Sass. An older version is included with Vim 7.2. Newest version is on Github:
+
+http://github.com/tpope/vim-haml
